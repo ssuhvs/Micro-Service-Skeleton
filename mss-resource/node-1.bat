@@ -1,0 +1,1 @@
+java -Xms20m -Xmx50m  -jar .\target\Micro-Service-Skeleton-Resource-0.0.1-SNAPSHOT.jar

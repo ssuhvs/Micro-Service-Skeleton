@@ -1,1 +1,1 @@
-java -jar .\target\Micro-Service-Skeleton-Gateway-0.0.1-SNAPSHOT.jar
+java -Xms20m -Xmx50m  -jar .\target\Micro-Service-Skeleton-Gateway-0.0.1-SNAPSHOT.jar
